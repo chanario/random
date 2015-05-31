@@ -8,3 +8,5 @@ if (numero <= 0.5){
 }
 
 console.log('\n' + numero + str + '\n');
+
+// este es un comentario para demostrar que funciona los commits.
